@@ -1,6 +1,6 @@
  html,body {
     background-color: rgba(19, 206, 175, 0.836);
-    font font-family: padding: 
+     font-family: padding
  }
 
  h1{
@@ -8,3 +8,12 @@
     color: rgb(144, 76, 207);
     text-shadow: 3px 3px 5px black;
  }
+
+ a:link {
+color: beige;
+ text-decoration: none;
+ }
+ a:visited {
+    color: rgb(34, 133, 133);
+ }
+ a :hover
