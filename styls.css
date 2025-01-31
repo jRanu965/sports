@@ -15,5 +15,9 @@ color: beige;
  }
  a:visited {
     color: rgb(34, 133, 133);
+
  }
- a :hover
+ a:hover {
+     text-shadow: 2px 2px 3px black;
+     
+ }
