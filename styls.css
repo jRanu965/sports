@@ -1,4 +1,10 @@
  html,body {
     background-color: rgba(19, 206, 175, 0.836);
-    font font-family: font-family: margin: padding: height: position: height: padding: margin: ;;;;;;;;
+    font font-family: padding: 
+ }
+
+ h1{
+    font: size 80px; 
+    color: rgb(144, 76, 207);
+    text-shadow: 3px 3px 5px black;
  }
